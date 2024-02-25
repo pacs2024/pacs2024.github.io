@@ -1,2 +1,2 @@
-# pacs2024.github.io
-Website for the PACS 2024 workshop
+# PACS 2024
+Workshop on Parameterized Algorithms and Constraint Satisfaction
