@@ -1,8 +1,3 @@
----
-theme: minima
-title: PACS 2024
----
-
 ## Description
 
 The workshop is co-located with [LiCS/ICALP/FSCD 2024](https://compose.ioc.ee/icalp2024/).
