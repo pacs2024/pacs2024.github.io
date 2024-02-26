@@ -2,20 +2,20 @@
 title: PACS 2024
 ---
 
+<!-- The part above between ---s is not rendered on the webpage -->
+
 ## Description
 
 The workshop is co-located with [LiCS/ICALP/FSCD 2024](https://compose.ioc.ee/icalp2024/).
 
-
 ## Invited Speakers
 
-<!-- 
 - **Andrei Krokhin**, Durham University, UK
 - **Dániel Marx**, CISPA Helmholz Center for Information Security, Saarbrücken, Germany
+- **Marcin Pilipczuk**, University of Warsaw, Poland
 - **Paweł Rzążewski**, Warsaw University of Technology, Poland
 - **Magnus Wahlström**, Royal Holloway University of London, UK
 - **Standa Živný**, Oxford University, UK
--->
 
 ## Location and Schedule
 
