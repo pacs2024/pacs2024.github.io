@@ -21,13 +21,15 @@ The workshop is co-located with [LiCS/ICALP/FSCD 2024](https://compose.ioc.ee/ic
 
 TBD, Tallinn, Estonia
 
+<!--
 ## Abstracts
 
 Do we need them?
+-->
 
 ## Registration
 
-You can register at [LiCS/ICALP/FSCD](https://compose.ioc.ee/icalp2024/).
+<!-- You can register at [LiCS/ICALP/FSCD](https://compose.ioc.ee/icalp2024/). -->
 Please also fill in this [registration-of-interest form](https://forms.gle/o9DFTs563e3qiyJCA) for the organizers to estimate the number of participants.
 
 ## Organizers
