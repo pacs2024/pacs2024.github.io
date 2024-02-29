@@ -26,7 +26,7 @@ CSP parameterized by the solution cost,
 graph homomorphisms,
 kernelization and sparsification, and
 structural restrictions,
-and an open problem session.
+as well as an open problem session.
 The workshop is co-located with [LiCS/ICALP/FSCD 2024](https://compose.ioc.ee/icalp2024/).
 
 ## Confirmed Invited Speakers
