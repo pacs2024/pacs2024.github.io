@@ -22,7 +22,7 @@ In a related development, reductions into CSP with few variables have been succe
 The workshop will include two tutorials: one on the algebraic approach to the CSP and another on the parameterized complexity toolbox for CSPs.
 It will also host several survey talks on the topics including 
 
-- CSP parameterized by the solution cost,
+- MinCSP parameterized by the solution cost,
 - graph homomorphisms,
 - kernelization & sparsification,
 - structural restrictions,
