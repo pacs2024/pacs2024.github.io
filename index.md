@@ -58,5 +58,5 @@ Please also fill in this [registration-of-interest form](https://forms.gle/o9DFT
 
 - **Dániel Marx**, CISPA Helmholz Center for Information Security, Saarbrücken, Germany
 - **George Osipov**, Linköping University, Sweden
-- **Roohani Sharma**, Max-Plack Institute for Informatics, Saarbrücken, Germany
+- **Roohani Sharma**, University of Bergen, Norway
 - **Magnus Wahlström**, Royal Holloway University of London, UK
