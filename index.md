@@ -16,7 +16,7 @@ The goal of the workshop is to bring together these two research communities to 
 
 The workshop is motivated by a series of exciting recent developments in the intersection of parameterized complexity and constraint satisfaction.
 New connections between graph width parameters and the CSP have been discovered in light of recent progress in parameterized complexity theory.
-Algorithmic breakthroughs in graph separation and transversal problems have reinvigorated the study of CSP parameterized by the solution cost. 
+Algorithmic breakthroughs in graph separation and transversal problems have reinvigorated the study of MinCSP parameterized by the solution cost. 
 In a related development, reductions into CSP with few variables have been successfully applied in resolving open problems, and a new width parameter for graphs and matrices called twinwidth was employed in dealing with the resulting CSPs.
 
 The workshop will include two tutorials: one on the algebraic approach to the CSP and another on the parameterized complexity toolbox for CSPs.
