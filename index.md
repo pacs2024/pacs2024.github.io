@@ -41,13 +41,7 @@ The workshop is co-located with [LiCS/ICALP/FSCD 2024](https://compose.ioc.ee/ic
 
 ## Location and Schedule
 
-TBD, Tallinn, Estonia
-
-<!--
-## Abstracts
-
-Do we need them?
--->
+Room TBD, Astra building on the campus of Tallinn University, Narva mnt 29, Tallinn, Estonia 
 
 ## Registration
 
@@ -57,6 +51,6 @@ Please also fill in this [registration-of-interest form](https://forms.gle/o9DFT
 ## Organizers
 
 - **Dániel Marx**, CISPA Helmholz Center for Information Security, Saarbrücken, Germany
-- **George Osipov**, Linköping University, Sweden
+- **George Osipov**, unaffiliated, Georgia
 - **Roohani Sharma**, University of Bergen, Norway
 - **Magnus Wahlström**, Royal Holloway University of London, UK
