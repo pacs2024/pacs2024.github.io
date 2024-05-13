@@ -46,6 +46,11 @@ Room TBD, Astra building on the campus of Tallinn University, Narva mnt 29, Tall
 ## Registration
 
 For official registration, please go to [LiCS/ICALP/FSCD](https://compose.ioc.ee/icalp2024/).
+
+*Early Bird:* May 17
+
+*Regular:* June 19
+
 Please also fill in this [registration-of-interest form](https://forms.gle/o9DFTs563e3qiyJCA) for the organizers to estimate the number of participants.
 
 ## Organizers
