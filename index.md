@@ -47,7 +47,7 @@ Room TBD, Astra building on the campus of Tallinn University, Narva mnt 29, Tall
 10:00 - 10:30 First coffee break :coffee:  
 10:30 - 11:30 Andrei Krokhin: _"A Theory of Gadget Reductions for CSPs"_  
 11:30 - 11:45 Short break  
-11:45 - 12:30 Magnus Wahlström: _"Sparsification and running time aspects of CSPs"_  
+11:45 - 12:30 Magnus Wahlström: _"Sparsification and Running Time Aspects of CSPs"_  
 12:30 - 14:00 Lunch :sandwich:  
 14:00 - 14:45 Marcin Pilipczuk: _"Parametrized Complexity of CSPs Parameterized by the Number of Unsatisfied Constraints"_  
 14:45 - 15:30 Standa Živný: _"PTAS for CSPs from the Other Side"_  
