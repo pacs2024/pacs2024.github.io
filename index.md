@@ -56,11 +56,9 @@ Room TBD, Astra building on the campus of Tallinn University, Narva mnt 29, Tall
 | 16:00 - 16:45 | Paweł Rzążewski        | "CSPs for Children: Fine-Grained Complexity of the Graph Homomorphism Problem"         |  
 | 16:45 - 18:00 |                        | Open problem session                                                                   |  
 
-## Registration until June 19!
+## Official Registration Closed
 
-For official registration, please go to [LiCS/ICALP/FSCD](https://compose.ioc.ee/icalp2024/).
-
-Please also fill in this [registration-of-interest form](https://forms.gle/o9DFTs563e3qiyJCA) for the organizers to estimate the number of participants.
+Please fill in this [registration-of-interest form](https://forms.gle/o9DFTs563e3qiyJCA) to get access to the open problems file.
 
 ## Organizers
 
