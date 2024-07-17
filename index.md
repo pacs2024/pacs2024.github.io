@@ -19,8 +19,8 @@ New connections between graph width parameters and the CSP have been discovered 
 Algorithmic breakthroughs in graph separation and transversal problems have reinvigorated the study of MinCSP parameterized by the solution cost. 
 In a related development, reductions into CSP with few variables have been successfully applied in resolving open problems, and a new width parameter for graphs and matrices called twinwidth was employed in dealing with the resulting CSPs.
 
-The workshop will include two tutorials: one on the algebraic approach to the CSP and another on the parameterized complexity toolbox for CSPs.
-It will also host several survey talks on the topics including 
+The workshop includes two tutorials: one on the algebraic approach to the CSP and another on the parameterized complexity toolbox for CSPs.
+It also hosts several survey talks on the topics including 
 
 - MinCSP parameterized by the solution cost,
 - graph homomorphisms,
@@ -44,14 +44,14 @@ The workshop is co-located with [LiCS/ICALP/FSCD 2024](https://compose.ioc.ee/ic
 Room TBD, Astra building on the campus of Tallinn University, Narva mnt 29, Tallinn, Estonia 
 | Time          | Speaker                | Title                                                                                  |
 |---------------|------------------------|----------------------------------------------------------------------------------------|
-| 09:00 - 10:00 | Dániel Marx            | Constraint Satisfaction and Fixed-Parameter Tractability                               |  
+| 09:00 - 10:00 | Dániel Marx            | Constraint Satisfaction and Fixed-Parameter Tractability [slides](slides/daniel.pdf)                              |  
 | 10:00 - 10:30 |                        | First coffee break ☕                                                                 |
-| 10:30 - 11:30 | Andrei Krokhin         | A Theory of Gadget Reductions for CSPs                                                 |  
+| 10:30 - 11:30 | Andrei Krokhin         | A Theory of Gadget Reductions for CSPs [slides](slides/andrei.pdf)                                                |  
 | 11:30 - 11:45 |                        | Short break                                                                            |
-| 11:45 - 12:30 | Magnus Wahlström       | Sparsification and Running Time Aspects of CSPs                                        | 
+| 11:45 - 12:30 | Magnus Wahlström       | Sparsification and Running Time Aspects of CSPs [slides](slides/magnus.pdf)                                       | 
 | 12:30 - 14:00 |                        | Lunch 🥪                                                                              |  
-| 14:00 - 14:45 | Marcin Pilipczuk       | Parametrized Complexity of CSPs Parameterized by the Number of Unsatisfied Constraints |  
-| 14:45 - 15:30 | Standa Živný           | PTAS for CSPs from the Other Side                                                      |  
+| 14:00 - 14:45 | Marcin Pilipczuk       | Parametrized Complexity of CSPs Parameterized by the Number of Unsatisfied Constraints [slides](slides/marcin.pdf) |  
+| 14:45 - 15:30 | Standa Živný           | PTAS for CSPs from the Other Side [slides](slides/standa.pdf)                                                     |  
 | 15:30 - 16:00 |                        | Second coffee break ☕                                                                 |
 | 16:00 - 16:45 | Paweł Rzążewski        | "CSPs for Children: Fine-Grained Complexity of the Graph Homomorphism Problem"         |  
 | 16:45 - 18:00 |                        | Open problem session                                                                   |  
