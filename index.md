@@ -53,7 +53,7 @@ Room TBD, Astra building on the campus of Tallinn University, Narva mnt 29, Tall
 | 14:00 - 14:45 | Marcin Pilipczuk       | [Parametrized Complexity of CSPs Parameterized by the Number of Unsatisfied Constraints](slides/marcin.pdf) |  
 | 14:45 - 15:30 | Standa Živný           | [PTAS for CSPs from the Other Side](slides/standa.pdf)                                                     |  
 | 15:30 - 16:00 |                        | Second coffee break ☕                                                                 |
-| 16:00 - 16:45 | Paweł Rzążewski        | CSPs for Children: Fine-Grained Complexity of the Graph Homomorphism Problem         |  
+| 16:00 - 16:45 | Paweł Rzążewski        | [CSPs for Children: Fine-Grained Complexity of the Graph Homomorphism Problem](slides/pawel.pdf)         |  
 | 16:45 - 18:00 |                        | Open problem session                                                                   |  
 
 ## Official Registration Closed
