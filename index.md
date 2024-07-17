@@ -44,16 +44,16 @@ The workshop is co-located with [LiCS/ICALP/FSCD 2024](https://compose.ioc.ee/ic
 Room TBD, Astra building on the campus of Tallinn University, Narva mnt 29, Tallinn, Estonia 
 | Time          | Speaker                | Title                                                                                  |
 |---------------|------------------------|----------------------------------------------------------------------------------------|
-| 09:00 - 10:00 | Dániel Marx            | Constraint Satisfaction and Fixed-Parameter Tractability [slides](slides/daniel.pdf)                              |  
+| 09:00 - 10:00 | Dániel Marx            | [Constraint Satisfaction and Fixed-Parameter Tractability](slides/daniel.pdf)                              |  
 | 10:00 - 10:30 |                        | First coffee break ☕                                                                 |
-| 10:30 - 11:30 | Andrei Krokhin         | A Theory of Gadget Reductions for CSPs [slides](slides/andrei.pdf)                                                |  
+| 10:30 - 11:30 | Andrei Krokhin         | [A Theory of Gadget Reductions for CSPs](slides/andrei.pdf)                                                |  
 | 11:30 - 11:45 |                        | Short break                                                                            |
-| 11:45 - 12:30 | Magnus Wahlström       | Sparsification and Running Time Aspects of CSPs [slides](slides/magnus.pdf)                                       | 
+| 11:45 - 12:30 | Magnus Wahlström       | [Sparsification and Running Time Aspects of CSPs](slides/magnus.pdf)                                       | 
 | 12:30 - 14:00 |                        | Lunch 🥪                                                                              |  
-| 14:00 - 14:45 | Marcin Pilipczuk       | Parametrized Complexity of CSPs Parameterized by the Number of Unsatisfied Constraints [slides](slides/marcin.pdf) |  
-| 14:45 - 15:30 | Standa Živný           | PTAS for CSPs from the Other Side [slides](slides/standa.pdf)                                                     |  
+| 14:00 - 14:45 | Marcin Pilipczuk       | [Parametrized Complexity of CSPs Parameterized by the Number of Unsatisfied Constraints](slides/marcin.pdf) |  
+| 14:45 - 15:30 | Standa Živný           | [PTAS for CSPs from the Other Side](slides/standa.pdf)                                                     |  
 | 15:30 - 16:00 |                        | Second coffee break ☕                                                                 |
-| 16:00 - 16:45 | Paweł Rzążewski        | "CSPs for Children: Fine-Grained Complexity of the Graph Homomorphism Problem"         |  
+| 16:00 - 16:45 | Paweł Rzążewski        | CSPs for Children: Fine-Grained Complexity of the Graph Homomorphism Problem         |  
 | 16:45 - 18:00 |                        | Open problem session                                                                   |  
 
 ## Official Registration Closed
@@ -63,6 +63,6 @@ Please fill in this [registration-of-interest form](https://forms.gle/o9DFTs563e
 ## Organizers
 
 - **Dániel Marx**, CISPA Helmholz Center for Information Security, Saarbrücken, Germany
-- **George Osipov**, unaffiliated, Georgia
+- **George Osipov**, Linköping University, Sweden
 - **Roohani Sharma**, University of Bergen, Norway
 - **Magnus Wahlström**, Royal Holloway University of London, UK
