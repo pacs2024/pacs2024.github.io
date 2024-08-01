@@ -39,9 +39,8 @@ The workshop is co-located with [LiCS/ICALP/FSCD 2024](https://compose.ioc.ee/ic
 - **Magnus Wahlström**, Royal Holloway University of London, UK
 - **Standa Živný**, Oxford University, UK
 
-## Location and Schedule
+## Schedule
 
-Room TBD, Astra building on the campus of Tallinn University, Narva mnt 29, Tallinn, Estonia 
 | Time          | Speaker                | Title                                                                                  |
 |---------------|------------------------|----------------------------------------------------------------------------------------|
 | 09:00 - 10:00 | Dániel Marx            | [Constraint Satisfaction and Fixed-Parameter Tractability](slides/daniel.pdf)                              |  
@@ -54,11 +53,11 @@ Room TBD, Astra building on the campus of Tallinn University, Narva mnt 29, Tall
 | 14:45 - 15:30 | Standa Živný           | [PTAS for CSPs from the Other Side](slides/standa.pdf)                                                     |  
 | 15:30 - 16:00 |                        | Second coffee break ☕                                                                 |
 | 16:00 - 16:45 | Paweł Rzążewski        | [CSPs for Children: Fine-Grained Complexity of the Graph Homomorphism Problem](slides/pawel.pdf)         |  
-| 16:45 - 18:00 |                        | Open problem session                                                                   |  
+| 16:45 - 18:00 |                        | [Open problems](pacs2024-open-problems.pdf)                                                              |  
 
-## Official Registration Closed
+## Open Problems
 
-Please fill in this [registration-of-interest form](https://forms.gle/o9DFTs563e3qiyJCA) to get access to the open problems file.
+[Open problems](pacs2024-open-problems.pdf)
 
 ## Organizers
 
